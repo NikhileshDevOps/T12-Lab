@@ -2,6 +2,7 @@ import java.util.Scanner;
 class AreaRect {
    public static void main (String[] args)
    {
+System.out.println("Welcome");
 	   Scanner scanner = new Scanner(System.in);
 	   System.out.println("Enter the length of Rectangle:");
 	   double length = scanner.nextDouble();

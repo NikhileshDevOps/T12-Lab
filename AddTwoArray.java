@@ -5,7 +5,7 @@ class AddTwoArray
   {
     int m, n, c, d;
     Scanner in = new Scanner(System.in);
-
+    System.out.println("hello and welcome");
     System.out.println("Enter the number of rows and columns of matrix");
     m = in.nextInt();
     n = in.nextInt();
